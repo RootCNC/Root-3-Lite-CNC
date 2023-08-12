@@ -1,3 +1,12 @@
+---
+title: Root 3
+description: Root 3 
+published: true
+date: 2022-06-28T21:37:30.411Z
+tags: root 3, r3
+editor: markdown
+dateCreated: 2022-05-24T19:30:47.756Z
+---
 
 <img align="right" width=175 src="https://raw.githubusercontent.com/RootCNC/Root-3-Lite-CNC/master/Media/R_Logo.png" />
 
